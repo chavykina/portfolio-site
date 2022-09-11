@@ -5,10 +5,13 @@
   --background-color: #ffe3e3;
 }
 @media (max-width: 576px) {
-  .project-link .title {
+  .project-link {
     display: block;
     text-align: center;
     margin: 0 15px;
+  }
+  .title {
+    text-align: center;
   }
 }
 body {
