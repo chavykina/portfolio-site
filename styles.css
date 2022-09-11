@@ -13,8 +13,7 @@
   .title {
     text-align: center;
   }
-  .title-aboutWar {
-    text-align: center;
+  #title-aboutWar {
     margin-top: 15px;
   }
 }
