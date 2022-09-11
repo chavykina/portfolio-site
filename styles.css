@@ -13,6 +13,10 @@
   .title {
     text-align: center;
   }
+  .title-aboutWar {
+    text-align: center;
+    margin-top: 15px;
+  }
 }
 body {
   background-color: #fefbf6;
